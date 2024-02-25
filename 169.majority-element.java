@@ -24,7 +24,11 @@ class Solution {
 
 // O(1)
 
+// most efficient
 
+// Made using moore's voting algorithm
+
+// https://www.geeksforgeeks.org/boyer-moore-majority-voting-algorithm/
 
 
 
