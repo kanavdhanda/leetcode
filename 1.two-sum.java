@@ -13,12 +13,12 @@ class Solution {
                 if(nums[i]+nums[j]==target){
                     ind[0] = i;
                     ind[1] = j;
-                    System.gc();
+                    // System.gc();
                     return ind;
                 }
             }
         }
-        System.gc();
+        // System.gc();
         return new int[0];
     }
 }
