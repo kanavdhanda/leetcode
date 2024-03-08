@@ -24,4 +24,10 @@ class Solution {
 }
 // @lc code=end
 
-// O(n²)
+// O(n²) Not Efficient
+
+
+
+/* Hash Map Approach: Efficient Approach 
+    Subtract the current element from  the target and query the result in hash map.
+*/
